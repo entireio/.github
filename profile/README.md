@@ -6,6 +6,31 @@
   </picture>
 </p>
 
+<p align="center">
+  <strong>The new era of software development begins here.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/entireio/cli/stargazers/" target="_blank">
+    <img src="https://img.shields.io/github/stars/entireio/cli?style=social&label=Star&maxAge=2592000" alt="GitHub stars">
+  </a>
+  <a href="https://x.com/entirehq" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/entirehq?style=social&label=Follow" alt="Follow on X">
+  </a>
+  <a href="https://discord.gg/jZJs3Tue4S" target="_blank">
+    <img src="https://img.shields.io/badge/discord-join-white.svg?style=social&logo=discord" alt="Discord">
+  </a>
+  <a href="https://www.linkedin.com/company/entireio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-follow-white.svg?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://docs.entire.io/" target="_blank">
+    <img src="https://img.shields.io/badge/docs-read-white.svg?style=social&logo=gitbook" alt="Docs">
+  </a>
+  <a href="https://www.youtube.com/@entireio" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-watch-white.svg?style=social&logo=youtube" alt="YouTube">
+  </a>
+</p>
+
 [Entire](https://entire.io) is a git-native developer platform for AI coding workflows. It captures agent sessions, prompts, checkpoints, and file changes alongside your code so you can understand how changes happened, rewind safely, and keep working with full context.
 
 ## What Entire does
