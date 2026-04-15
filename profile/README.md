@@ -1,12 +1,12 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/entireio/.github/main/profile/entire-lockup-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/entireio/.github/main/profile/entire-lockup-light.svg">
-    <img src="https://raw.githubusercontent.com/entireio/.github/main/profile/entire-lockup-light.svg" alt="Entire" width="720">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/entireio/.github/main/profile/entire-lockup-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/entireio/.github/main/profile/entire-lockup-dark.svg">
+    <img src="https://raw.githubusercontent.com/entireio/.github/main/profile/entire-lockup-dark.svg" alt="Entire" width="720">
   </picture>
 </p>
 
-Entire is a git-native developer platform for AI coding workflows. It captures agent sessions, prompts, checkpoints, and file changes alongside your code so you can understand how changes happened, rewind safely, and keep working with full context.
+[Entire](https://entire.io) is a git-native developer platform for AI coding workflows. It captures agent sessions, prompts, checkpoints, and file changes alongside your code so you can understand how changes happened, rewind safely, and keep working with full context.
 
 ## What Entire does
 
