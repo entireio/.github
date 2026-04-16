@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./pixel_marvin.jpeg" alt="Pixel Marvin" width="256">
+</p>
+
+<p align="center">
   <strong>The new era of software development begins here.</strong>
 </p>
 
