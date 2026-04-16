@@ -11,18 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/entireio/cli/stargazers/" target="_blank">
-    <img src="https://img.shields.io/badge/Star-white?style=flat-square&logo=github&logoColor=111111" alt="Star">
-  </a>
-  <a href="https://x.com/entirehq" target="_blank">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=x&logoColor=111111" alt="X">
-  </a>
-  <a href="https://discord.gg/jZJs3Tue4S" target="_blank">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord">
-  </a>
-  <a href="https://docs.entire.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Docs-white?style=flat-square&logo=gitbook&logoColor=111111" alt="Docs">
-  </a>
+  <a href="https://x.com/entirehq" target="_blank"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=x&logoColor=111111" alt="X"></a>
+  <a href="https://discord.gg/jZJs3Tue4S" target="_blank"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord"></a>
+  <a href="https://docs.entire.io/" target="_blank"><img src="https://img.shields.io/badge/Docs-white?style=flat-square&logo=gitbook&logoColor=111111" alt="Docs"></a>
 </p>
 
 [Entire](https://entire.io) is a git-native developer platform for AI coding workflows. It captures agent sessions, prompts, checkpoints, and file changes alongside your code so you can understand how changes happened, rewind safely, and keep working with full context.
