@@ -1,19 +1,9 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./entire-lockup-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./entire-lockup-dark.svg">
-    <img src="./entire-lockup-dark.svg" alt="Entire" width="256">
-  </picture>
+  <img src="./pixel_marvin.jpeg" alt="Pixel Marvin" width="256">
 </p>
 
 <p align="center">
   <strong>The new era of software development begins here.</strong>
-</p>
-
-<p align="center">
-  <a href="https://x.com/entirehq" target="_blank"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=x&logoColor=111111" alt="X"></a>
-  <a href="https://discord.gg/jZJs3Tue4S" target="_blank"><img src="https://img.shields.io/badge/-white?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord"></a>
-  <a href="https://docs.entire.io/" target="_blank"><img src="https://img.shields.io/badge/Docs-white?style=flat-square&logo=gitbook&logoColor=111111" alt="Docs"></a>
 </p>
 
 [Entire](https://entire.io) is a git-native developer platform for AI coding workflows. It captures agent sessions, prompts, checkpoints, and file changes alongside your code so you can understand how changes happened, rewind safely, and keep working with full context.
