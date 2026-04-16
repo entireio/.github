@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pixel_marvin.jpeg" alt="Pixel Marvin" width="256">
+  <img src="./pixel_marvin.jpeg" alt="Pixel Marvin" width="512">
 </p>
 
 <p align="center">
