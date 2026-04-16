@@ -52,6 +52,6 @@
 ## Join the community
 
 - [Discord](https://discord.gg/jZJs3Tue4S)
-- [Twitter/X](https://twitter.com/entirehq)
+- [Twitter/X](https://x.com/entirehq)
 - [LinkedIn](https://www.linkedin.com/company/entireio)
 - [YouTube](https://www.youtube.com/@entireio)
