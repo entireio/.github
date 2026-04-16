@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/entireio/.github/main/profile/entire-lockup-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/entireio/.github/main/profile/entire-lockup-dark.svg">
-    <img src="https://raw.githubusercontent.com/entireio/.github/main/profile/entire-lockup-dark.svg" alt="Entire" width="720">
+    <source media="(prefers-color-scheme: dark)" srcset="./entire-lockup-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./entire-lockup-dark.svg">
+    <img src="./entire-lockup-dark.svg" alt="Entire" width="720">
   </picture>
 </p>
 
