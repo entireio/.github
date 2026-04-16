@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./entire-lockup-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="./entire-lockup-dark.svg">
-    <img src="./entire-lockup-dark.svg" alt="Entire" width="720">
+    <img src="./entire-lockup-dark.svg" alt="Entire" width="256">
   </picture>
 </p>
 
