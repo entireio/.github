@@ -16,6 +16,14 @@
 - Preserve context without polluting your active branch
 - Support multi-agent workflows across modern coding agents
 
+## How it fits into your workflow
+
+1. [Install Entire](https://docs.entire.io/cli/installation) and [enable it in your repository](https://docs.entire.io/quickstart).
+2. Work with any of Entire’s [supported agents](https://github.com/entireio/cli#agent-hook-configuration) as usual while Entire captures [session context](https://docs.entire.io/core-concepts) alongside your code.
+3. Commit at natural checkpoints so Entire can link prompts, transcripts, and file changes to your work.
+4. Use [`entire status`](https://docs.entire.io/cli/commands#status) to check what’s active, [`entire rewind`](https://docs.entire.io/cli/commands#rewind) to restore a known-good checkpoint, [`entire resume`](https://docs.entire.io/cli/commands#resume) to continue work on a branch, and [`entire explain`](https://docs.entire.io/cli/commands#explain) to understand how a change was made.
+5. Open the [dashboard](https://docs.entire.io/web/dashboard) to browse activity across repositories, then drill into [Checkpoints](https://docs.entire.io/web/checkpoints) to review sessions, diffs, and the reasoning behind a change.
+
 ## Main repositories
 
 - [cli](https://github.com/entireio/cli): The core Entire CLI for capturing AI coding sessions, linking them to commits, and rewinding to known-good checkpoints.
