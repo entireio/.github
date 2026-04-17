@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pixel_marvin.jpeg" alt="Pixel Marvin" width="768">
+  <img src="https://raw.githubusercontent.com/entireio/.github/main/profile/pixel_marvin.jpeg" alt="Pixel Marvin" width="768">
 </p>
 
 <p align="center">
