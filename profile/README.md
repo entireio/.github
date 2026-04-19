@@ -16,7 +16,7 @@
 - Preserve context without polluting your active branch
 - Support multi-agent workflows across modern coding agents
 
-## How it fits into your workflow
+## How Entire fits into your workflow
 
 1. [Install Entire](https://docs.entire.io/cli/installation) and [enable it in your repository](https://docs.entire.io/quickstart).
 2. Work with any of Entire’s [supported agents](https://github.com/entireio/cli#agent-hook-configuration) as usual while Entire captures [session context](https://docs.entire.io/core-concepts) alongside your code.
