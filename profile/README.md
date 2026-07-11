@@ -44,3 +44,5 @@
 - [Twitter/X](https://x.com/entirehq)
 - [LinkedIn](https://www.linkedin.com/company/entireio)
 - [YouTube](https://www.youtube.com/@entireio)
+- [Instagram](https://www.instagram.com/entire.io/)
+- [TikTok](https://www.tiktok.com/@entireio)
