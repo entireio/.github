@@ -30,6 +30,8 @@
 - [external-agents](https://github.com/entireio/external-agents): Agent plugins for extending Entire beyond its built-in adapters, including Kiro and Pi.
 - [skills](https://github.com/entireio/skills): Shared cross-agent skills for handoff, explain, and search workflows across Codex, Claude, OpenCode, Cursor, and Gemini.
 - [devcontainer-features](https://github.com/entireio/devcontainer-features): Dev container features for installing the Entire CLI in reproducible development environments.
+- [forgemark](https://github.com/entireio/forgemark) - A concurrent git-push throughput benchmark for any smart-HTTP git forge.
+- [git-sync](https://github.com/entireio/git-sync) -  Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
 
 ## Start here
 
