@@ -38,7 +38,7 @@ This security policy applies to:
 
 - The Entire CLI (`entire` command-line tool)
 - Official Entire GitHub repositories
-- Entire-related services at entire.io
+- Entire-related services at entire.com or entire.io
 
 ### Out of Scope
 
@@ -59,7 +59,7 @@ Security advisories are issued when a confirmed vulnerability can be exploited b
 - Resource exhaustion that requires local access to trigger
 - Issues that cannot be exploited without direct access to the user's machine
 
-Use [GitHub Issues](https://github.com/entireio/cli/issues) to report bugs.
+Use GitHub Issues for the respective repository to report bugs.
 
 ---
 
