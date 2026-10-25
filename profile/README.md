@@ -35,10 +35,10 @@
 
 ## Start here
 
-- [Install Entire](https://docs.entire.io/cli/installation)
-- [Quick Start](https://docs.entire.io/quickstart)
-- [Documentation](https://docs.entire.io/)
-- [Website](https://entire.io)
+- [Install Entire](https://docs.entire.com/cli/installation)
+- [Quick Start](https://docs.entire.com/quickstart)
+- [Documentation](https://docs.entire.com/)
+- [Website](https://entire.com)
 
 ## Join the community
 
