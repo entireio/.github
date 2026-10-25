@@ -43,8 +43,8 @@
 ## Join the community
 
 - [Discord](https://discord.gg/jZJs3Tue4S)
-- [Twitter/X](https://x.com/entirehq)
-- [LinkedIn](https://www.linkedin.com/company/entireio)
-- [YouTube](https://www.youtube.com/@entireio)
-- [Instagram](https://www.instagram.com/entire.io/)
-- [TikTok](https://www.tiktok.com/@entireio)
+- [Twitter/X](https://x.com/goentire)
+- [LinkedIn](https://www.linkedin.com/company/goentire)
+- [YouTube](https://www.youtube.com/@goentire)
+- [Instagram](https://www.instagram.com/goentire/)
+- [TikTok](https://www.tiktok.com/@goentire)
